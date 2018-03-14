@@ -1,0 +1,63 @@
+
+
+
+body{
+    background: white;
+    height: 100%;
+    margin: 0;
+    background-image: url("luxury_interior2.jpeg");
+    background-repeat: no-repeat;
+}
+
+.videop{
+  font-size: 25px
+}
+
+.LDT-logo{
+  margin: 5em;
+}
+
+.bg {
+    /* Adjust the height of the jumbotron */
+    height: 70vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#tagline{
+    font-family: sans-serif;
+    text-align: center;
+    color: #A9A9A9;
+}
+
+#pexplain{
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+  color: #A9A9A9;
+}
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+a:visited{
+	color:navy;
+}
+a:visited:hover{
+	color:red;
+}
+a:active{
+	color: orange;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
